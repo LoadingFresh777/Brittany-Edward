@@ -1,0 +1,36 @@
+body{
+	background-color: #afd475;
+}
+header{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 15px;
+	font-family: 'Bree Serif', serif;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid black
+}
+
+main{
+	text-align: center;
+}
+main img{
+	border: 20px solid black
+}
+h1{
+	padding-top: 10px;
+}
+
+h2{
+	font-size: 25px;
+	padding-top: 10px;
+}
+
+
+
+
+
