@@ -1,6 +1,7 @@
 body{
 	background-color: #afd475;
 }
+
 header{
 	padding-top: 20px;
 	text-align: center;
@@ -18,9 +19,7 @@ header img{
 main{
 	text-align: center;
 }
-main img{
-	border: 20px solid black
-}
+
 h1{
 	padding-top: 10px;
 }
